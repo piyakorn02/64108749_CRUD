@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Piyakorn Inchay",
+      "email": "a@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "fullname": "Piyakorn Inchay",
+      "email": "P@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    }
+  ]
+}
